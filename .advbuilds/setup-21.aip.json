@@ -1,0 +1,19 @@
+{
+  "MainExe": "OTH.HosRestore.exe",
+  "ProductDetail": {
+    "ProductName": "DHG.Hospital OTH.HosRestore"
+  },
+  "AdvancedInstallerShortcut": {
+    "Name": "DHG.Hospital OTH.HosRestore",
+    "Target": "APPDIR\\OTH.HosRestore.exe",
+    "InDirectories": [
+      "DesktopFolder",
+      "StartMenuFolder\\DHG Pharma"
+    ],
+    "PathIcon": "Logo.ico"
+  },
+  "IconInControlPanel": {
+    "IsSetIcon": true,
+    "PathIcon": "Logo.ico"
+  }
+}
